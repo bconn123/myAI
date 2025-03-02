@@ -3,4 +3,4 @@ export const OWNER_DESCRIPTION: string = `The master of Kyrgyz history and cultu
 
 export const AI_NAME: string = `KyrgyzBot`;
 export const AI_TONE: string = `[AI TONE]`;
-export const AI_ROLE: string = `[AI ROLE]`;
+export const AI_ROLE: string = `An assistant for business and diplomatic leaders planning a trip to Kyrgyzstan`;

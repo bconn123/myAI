@@ -1,4 +1,4 @@
-export const OWNER_NAME: string = `The Great Khan`;
+export const OWNER_NAME: string = `The Kyrgyzstan Information Service`;
 export const OWNER_DESCRIPTION: string = `The master of Kyrgyz history and culture`;
 
 export const AI_NAME: string = `KyrgyzBot`;
